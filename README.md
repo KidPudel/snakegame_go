@@ -1,4 +1,4 @@
-Snake game written in Golang using Raylib binding
+Snake game written in Golang using Raylib binding  
 Music is done using [BeepBox](https://www.beepbox.co/)
 
 
